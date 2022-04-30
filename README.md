@@ -60,6 +60,6 @@ It also provides the user with an interface to input their email address and pho
 
 ## Team Collaborators
 * Umananda Sahu
-* Somesh Chaneja
+* Somesh Kumar
 * Ankit Das
 
