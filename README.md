@@ -1,6 +1,9 @@
 # FYP-22
 This repository is for Final Year Project. 
 
+
+![ProjectFlow](https://github.com/sudolmin/FYP-22/blob/main/media/images/FYP-flow-Working%20Flow.drawio.png?raw=true)
+
 # Description
 This project can be divided into the following levels:
 
@@ -8,10 +11,19 @@ This project can be divided into the following levels:
 
 Wemos D1 mini board with ESP8266 WiFi module is connected to two sensors.
 
+![d1mini](https://github.com/sudolmin/FYP-22/blob/main/media/images/d1mini.jpg?raw=true)
+
 1. MQ2 gas sensor - measures Methane, Butane, Smoke in the air
+
+![MQ2](https://github.com/sudolmin/FYP-22/blob/main/media/images/mq2.jpg?raw=true)
+
 2. BMP180 sensor - measures Pressure, Temperature, Altitude
 
+![BMP180](https://github.com/sudolmin/FYP-22/blob/main/media/images/bmp180.jpg?raw=true)
+
 ### Connections and workings
+
+![BMP180](https://github.com/sudolmin/FYP-22/blob/main/media/images/FYP-flow-Circuit%20Diagram.drawio.png?raw=true)
 
 The program is written in **d1mini.ino** takes data as follows:
 * Air quality readings from MQ2 gas sensor, and
